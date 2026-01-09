@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/khushiyadav03/Heaps/tree/master/0215-kth-largest-element-in-an-array) |
+| [1046-last-stone-weight](https://github.com/khushiyadav03/Heaps/tree/master/1046-last-stone-weight) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -17,6 +18,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/khushiyadav03/Heaps/tree/master/0215-kth-largest-element-in-an-array) |
+| [1046-last-stone-weight](https://github.com/khushiyadav03/Heaps/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
