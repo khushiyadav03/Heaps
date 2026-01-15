@@ -8,6 +8,7 @@
 | [0506-relative-ranks](https://github.com/khushiyadav03/Heaps/tree/master/0506-relative-ranks) |
 | [1046-last-stone-weight](https://github.com/khushiyadav03/Heaps/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khushiyadav03/Heaps/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/khushiyadav03/Heaps/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2974-minimum-number-game](https://github.com/khushiyadav03/Heaps/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/khushiyadav03/Heaps/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Divide and Conquer
@@ -20,6 +21,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/khushiyadav03/Heaps/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/khushiyadav03/Heaps/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khushiyadav03/Heaps/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/khushiyadav03/Heaps/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2974-minimum-number-game](https://github.com/khushiyadav03/Heaps/tree/master/2974-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
@@ -28,6 +30,7 @@
 | [0506-relative-ranks](https://github.com/khushiyadav03/Heaps/tree/master/0506-relative-ranks) |
 | [1046-last-stone-weight](https://github.com/khushiyadav03/Heaps/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khushiyadav03/Heaps/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/khushiyadav03/Heaps/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2974-minimum-number-game](https://github.com/khushiyadav03/Heaps/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/khushiyadav03/Heaps/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Quickselect
@@ -37,10 +40,15 @@
 ## Simulation
 |  |
 | ------- |
+| [2500-delete-greatest-value-in-each-row](https://github.com/khushiyadav03/Heaps/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2974-minimum-number-game](https://github.com/khushiyadav03/Heaps/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/khushiyadav03/Heaps/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Math
 |  |
 | ------- |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/khushiyadav03/Heaps/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+## Matrix
+|  |
+| ------- |
+| [2500-delete-greatest-value-in-each-row](https://github.com/khushiyadav03/Heaps/tree/master/2500-delete-greatest-value-in-each-row) |
 <!---LeetCode Topics End-->
