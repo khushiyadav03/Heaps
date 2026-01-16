@@ -14,6 +14,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/khushiyadav03/Heaps/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/khushiyadav03/Heaps/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
@@ -26,6 +27,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/khushiyadav03/Heaps/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/khushiyadav03/Heaps/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/khushiyadav03/Heaps/tree/master/0506-relative-ranks) |
 | [1046-last-stone-weight](https://github.com/khushiyadav03/Heaps/tree/master/1046-last-stone-weight) |
@@ -51,4 +53,12 @@
 |  |
 | ------- |
 | [2500-delete-greatest-value-in-each-row](https://github.com/khushiyadav03/Heaps/tree/master/2500-delete-greatest-value-in-each-row) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/khushiyadav03/Heaps/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/khushiyadav03/Heaps/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
