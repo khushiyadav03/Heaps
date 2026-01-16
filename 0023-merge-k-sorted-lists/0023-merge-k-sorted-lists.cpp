@@ -10,35 +10,36 @@
  */
 class Solution {
 public:
-    ListNode* mergeTwoLists(ListNode* l1, ListNode* l2){
+    struct compare {
+        bool operator()(ListNode* a, ListNode* b){
+            return a->val > b->val;
+        }
+    };
+
+    ListNode* mergeKLists(vector<ListNode*>& lists) {
+        priority_queue<ListNode*, vector<ListNode*>, compare> pq;
+
+        // step 1: push all heasd
+        for(auto list : lists){
+            if(list) pq.push(list);
+        }
+
         ListNode dummy(0);
         ListNode* tail = &dummy;
 
-        while(l1 && l2){
-            if(l1->val < l2->val){
-                tail->next = l1;
-                l1 = l1->next;
-            } else {
-                tail->next = l2;
-                l2 = l2->next;
-            }
+        // step 2: process heap
+        while(!pq.empty()){
+            ListNode* node = pq.top();
+            pq.pop();
+
+            tail->next = node;
             tail = tail->next;
+
+            if(node->next){
+                pq.push(node->next);
+            }
         }
 
-        tail->next = l1 ? l1 : l2;
-        return dummy.next;
-    }
-
-
-    ListNode* mergeKLists(vector<ListNode*>& lists) {
-        if(lists.empty()) return NULL;
-
-        ListNode* res = lists[0];
-
-        for(int i = 1; i<lists.size(); i++){
-            res = mergeTwoLists(res, lists[i]);
-        }
-
-        return res; // time : O(n * k) and space: O(1)
+        return dummy.next; // time= O(n log k) and space = O(k)
     }
 };
