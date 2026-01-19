@@ -4,22 +4,32 @@ public:
         unordered_map<int, int> freq;
 
         // count freq
-        for(int n : nums){
+        for (int n : nums) {
             freq[n]++;
         }
 
-        // max heap (freq, n)
-        priority_queue<pair<int, int>> pq;
-        for(auto &it : freq){
-            pq.push({it.second, it.first});
+        // min heap (freq, n)
+        priority_queue<
+            pair<int, int>,
+            vector<pair<int, int>>,
+            greater<pair<int, int>>
+        > minHeap;
+
+        // keep heap size = k
+        for (auto &it : freq) {
+            minHeap.push({it.second, it.first});
+            if (minHeap.size() > k) {
+                minHeap.pop();
+            }
         }
 
-        // extract top k
+        // extract result
         vector<int> ans;
-        while(k--){
-            ans.push_back(pq.top().second);
-            pq.pop();
+        while (!minHeap.empty()) {
+            ans.push_back(minHeap.top().second);
+            minHeap.pop();
         }
-        return ans; // O(n log k)
+
+        return ans; // O(n log n)
     }
 };
