@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/khushiyadav03/Heaps/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/khushiyadav03/Heaps/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/khushiyadav03/Heaps/tree/master/0506-relative-ranks) |
 | [1046-last-stone-weight](https://github.com/khushiyadav03/Heaps/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khushiyadav03/Heaps/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -16,10 +17,12 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/khushiyadav03/Heaps/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/khushiyadav03/Heaps/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/khushiyadav03/Heaps/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/khushiyadav03/Heaps/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/khushiyadav03/Heaps/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/khushiyadav03/Heaps/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khushiyadav03/Heaps/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/khushiyadav03/Heaps/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -29,6 +32,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/khushiyadav03/Heaps/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/khushiyadav03/Heaps/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/khushiyadav03/Heaps/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/khushiyadav03/Heaps/tree/master/0506-relative-ranks) |
 | [1046-last-stone-weight](https://github.com/khushiyadav03/Heaps/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khushiyadav03/Heaps/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -39,6 +43,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/khushiyadav03/Heaps/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/khushiyadav03/Heaps/tree/master/0347-top-k-frequent-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -61,4 +66,16 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/khushiyadav03/Heaps/tree/master/0023-merge-k-sorted-lists) |
+## Hash Table
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/khushiyadav03/Heaps/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/khushiyadav03/Heaps/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/khushiyadav03/Heaps/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
