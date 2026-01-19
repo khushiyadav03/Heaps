@@ -20,6 +20,6 @@ public:
             ans.push_back(pq.top().second);
             pq.pop();
         }
-        return ans;
+        return ans; // O(n log k)
     }
 };
