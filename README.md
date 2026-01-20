@@ -7,6 +7,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/khushiyadav03/Heaps/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/khushiyadav03/Heaps/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/khushiyadav03/Heaps/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/khushiyadav03/Heaps/tree/master/0621-task-scheduler) |
 | [1046-last-stone-weight](https://github.com/khushiyadav03/Heaps/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khushiyadav03/Heaps/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/khushiyadav03/Heaps/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -24,6 +25,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/khushiyadav03/Heaps/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/khushiyadav03/Heaps/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/khushiyadav03/Heaps/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/khushiyadav03/Heaps/tree/master/0621-task-scheduler) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khushiyadav03/Heaps/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/khushiyadav03/Heaps/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2974-minimum-number-game](https://github.com/khushiyadav03/Heaps/tree/master/2974-minimum-number-game) |
@@ -34,6 +36,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/khushiyadav03/Heaps/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/khushiyadav03/Heaps/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/khushiyadav03/Heaps/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/khushiyadav03/Heaps/tree/master/0621-task-scheduler) |
 | [1046-last-stone-weight](https://github.com/khushiyadav03/Heaps/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khushiyadav03/Heaps/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/khushiyadav03/Heaps/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -70,6 +73,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/khushiyadav03/Heaps/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/khushiyadav03/Heaps/tree/master/0621-task-scheduler) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -78,4 +82,9 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/khushiyadav03/Heaps/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/khushiyadav03/Heaps/tree/master/0621-task-scheduler) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/khushiyadav03/Heaps/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
