@@ -1,44 +1,35 @@
 class Solution {
 public:
     int leastInterval(vector<char>& tasks, int n) {
-        unordered_map<char, int> freq;
-        for(char t : tasks){
-            freq[t]++;
+        vector<int> count(26, 0);
+
+        for(auto &t : tasks){
+            count[t - 'A']++;
         }
 
-        priority_queue<int> pq;
-        for(auto it : freq){
-            pq.push(it.second);
+        // sabse jyada freq task sabse aage aa jayega
+        sort(begin(count), end(count), greater<int>());
+
+        // sabse max freq vala task
+        int maxFreq = count[0];
+
+        int gap = maxFreq - 1;
+        int idleSlots = gap * n;
+
+        for(int i = 1; i<26; i++){
+            if(count[i] == 0) continue;
+
+            // ek task max ik baar har gap me aa sakta h 
+            // so min(count[i], gap) subtract karte h
+            idleSlots -= min(count[i], gap);
         }
 
-        int time = 0;
-
-        while(!pq.empty()){
-            int cycle = n+1;
-            vector<int> temp;
-
-            while(cycle>0 && !pq.empty()){
-                int f = pq.top();
-                pq.pop();
-
-                f--;
-                if(f>0){
-                    temp.push_back(f);
-                }
-
-                time++;
-                cycle--;
-            }
-
-            for(int f : temp){
-                pq.push(f);
-            }
-
-            // agr heap empty nhi h toh idle time add karo
-            if(!pq.empty()){
-                time += cycle;
-            }
+        // agr abhi bhi idle slots bachhe h
+        if(idleSlots > 0){
+            // tottal time = tasks + idle time
+            return tasks.size() + idleSlots;
         }
-        return time;
+
+        return tasks.size(); // no idle 
     }
 };
