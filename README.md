@@ -58,6 +58,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/khushiyadav03/Heaps/tree/master/0007-reverse-integer) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/khushiyadav03/Heaps/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Matrix
 |  |
