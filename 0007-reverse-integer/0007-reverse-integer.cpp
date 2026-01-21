@@ -10,6 +10,6 @@ public:
             x = x / 10;
         }
 
-        return n;
+        return n; // time : O(Log(Abs(X)))
     }
 };
